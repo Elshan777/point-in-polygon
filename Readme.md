@@ -1,6 +1,8 @@
 # Point in a polygon
 
-This is a school project that randomly creates points and calculates if a point is inside or outside of a polygon
+This is a school project that randomly creates points and calculates if a point is inside or outside of a polygon.
+
+## Points inside polygon are marked green and points outside of polygon are filled with red color
 
 # Demonstration
 
